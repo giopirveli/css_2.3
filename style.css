@@ -36,3 +36,174 @@ nav {
   color: #8e26c0;
 }
                                                              /* Mainnnnnn */
+main{
+    margin-top: 142px;                                                  
+}                                                                                                    
+#offerBox{
+    margin: 0 auto;      
+    max-width: 1300px;
+}
+#whatWeOfferBox{
+display: inline-block;
+max-width: 650px;   
+margin-left: 30px;
+vertical-align: 100px;
+}
+#whatWeOfferBox h2{
+    font-size: 40px;
+    text-align: center;
+}
+#offerParagrap{
+    color: #535862;
+    font-size: 20px;
+    margin: 16px 0;
+}
+#whatWeOfferBox ol {
+    font-size: 24px;
+    margin-left: 25px;
+}
+#contactUsBox{
+  max-width: 1221px;
+  margin: 0 auto;
+  margin-top: 83px;
+}
+#contactUsBox h1{
+  font-size: 56px;
+  text-align: center;
+}
+#contactFirstParagrap{
+  color: #535862;
+  max-width: 905px;
+  margin: 20px auto;
+  font-size: 20px;
+  text-align: center;
+
+}
+#formBox{
+  padding: 32px;
+  border-radius: 16px;
+background-color: #F7F4FF;
+}
+#contactInfo{
+  padding: 20px;
+  border-radius: 16px;
+background: #FFF;
+max-width: 404px;
+display: inline-block;
+height: 475px;
+}
+#adress{
+  display: inline-block;
+}
+#adressText{
+  display: inline-block;
+  vertical-align: super;
+  margin-left: 16px;
+}
+#adress img{
+  padding: 10px;
+border-radius: 50px;
+background: #F7F4FF;
+}
+#adressTextParagrap{
+  color: #6D5F8B;
+  font-size: 16px;
+}
+#adressTitle{
+  color: black;
+  font-size: 20px;
+}
+#email{
+  display: inline-block;
+  margin: 24px 0px;
+}
+#email img{
+  padding: 10px;
+border-radius: 50px;
+background: #F7F4FF;
+}
+#emailText{
+  display: inline-block;
+  vertical-align: super;
+  margin-left: 16px;
+}
+#emailTitle{
+  color: black;
+  font-size: 20px;
+}
+#emailTextParagrap{
+  color: #6D5F8B;
+  font-size: 16px;
+}
+#phone{
+  display: inline-block;
+}
+#phone img{
+  padding: 10px;
+  border-radius: 50px;
+  background: #F7F4FF;
+}
+#phoneText{
+  display: inline-block;
+  vertical-align: super;
+  margin-left: 16px;
+}
+#phoneTitle{
+  color: black;
+  font-size: 20px;
+}
+#phoneTextParagrap{
+  color: #6D5F8B;
+  font-size: 16px;
+}
+#messageBox{
+  display: inline-block;
+  margin-left: 19px;
+  vertical-align: top;
+  max-width:730px;
+}
+#messageBox h2{
+  font-size: 32px;
+  color: #1B003D;
+  margin-bottom: 16px;
+
+}
+#fullName{
+  padding: 8px 16px;
+  border-radius: 8px;
+border: 1px solid #8E26C0;
+color: #6D5F8B;
+margin-top: 10px;
+maxwidth: 730px;
+}
+#fullNameLabel{
+  display: block;
+  color: #1B003D;
+  font-size: 14px;
+}
+#EmailName{
+  padding: 8px 16px;
+  border-radius: 8px;
+border: 1px solid #8E26C0;
+color: #6D5F8B;
+margin-top: 10px;
+width: 730px;
+margin-bottom: 24px;
+}
+#EmailLabel{
+  display: block;
+  color: #1B003D;
+  font-size: 14px;
+  margin-top: 24px;
+}
+#messageContent{
+  border-radius: 8px;
+border: 1px solid #8E26C0;
+color: #6D5F8B;
+margin-top: 10px;
+width: 730px;
+height: 146px;
+padding: 12px 16px;
+resize: none;
+}
+                                                  /* foooterrr */
