@@ -174,7 +174,7 @@ background: #F7F4FF;
 border: 1px solid #8E26C0;
 color: #6D5F8B;
 margin-top: 10px;
-maxwidth: 730px;
+width: 730px;
 }
 #fullNameLabel{
   display: block;
@@ -206,4 +206,108 @@ height: 146px;
 padding: 12px 16px;
 resize: none;
 }
+#sendMessege{
+  font-size: 16px;
+color: #FFF;
+width:140px;
+padding: 12px 24px;
+border-radius: 8px;
+background: #8E26C0;
+border: #ffff solid 1px;
+margin-top: 24px;
+}
+#rightButton{
+  text-align: end;
+}
                                                   /* foooterrr */
+footer{
+  margin-top: 163px;
+padding: 64px 0px 48px 0px;
+background: #53389E;
+}
+#linksConteiner{
+  margin: 0 auto;
+  max-width: 1280px;
+}
+#productsSection{
+width: 176px;
+display: inline-block;
+}
+#linksConteiner a{
+  display: block;
+  text-decoration: none;
+  color: #E9D7FE;
+  font-size: 25px;
+  margin-bottom: 12px;
+}
+#linksConteiner p{
+  color: #D6BBFB;
+  font-size: 20px;
+  padding-bottom: 16px;
+}
+#newReleases{
+  border-radius: 6px;
+border: 1px solid rgba(255, 255, 255, 0.30);
+background: rgba(255, 255, 255, 0.10);
+vertical-align: middle;
+margin-left: 8px;
+}
+#companySection{
+  width: 176px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 32px;
+}
+#companySection a{
+  text-decoration: none;
+  color: #E9D7FE;
+  font-size: 25px;
+  margin-bottom: 12px; 
+}
+#companySection p{
+  color: #D6BBFB;
+  font-size: 20px;
+  padding-bottom: 16px;
+}
+#resourcesSection{
+  width: 176px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 32px;
+}
+#useCasesSection{
+  width: 176px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 32px;
+}
+#socialSection{
+  width: 176px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 32px;
+}
+#legalSection{
+  width: 176px;
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 32px;
+
+}
+#footerLogo{
+  border-top: 1px solid #7F56D9;
+  margin-top: 64px;
+  padding-top: 32px;
+  display: inline-block;
+  width: 100%;
+}
+#endingText{
+  width: 293px;
+  display: inline;
+  margin-left: auto;
+}
+#footerLogo img{
+  vertical-align: middle;
+  margin-right: 35vw;
+}
+
